@@ -1,0 +1,2 @@
+# LoveLocal
+Internship Assignment
